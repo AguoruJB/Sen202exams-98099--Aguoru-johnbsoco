@@ -18,3 +18,7 @@ This API allows companies to manage their staff information, including Managers 
 4. Run migrations: `python manage.py migrate`
 5. Create superuser: `python manage.py createsuperuser`
 6. Run server: `python manage.py runserve
+i did 1,2,5
+ #username=: Johnbosco
+    #email= chukwukaaguoru20@gmail.com
+    #password= Johnbosco
