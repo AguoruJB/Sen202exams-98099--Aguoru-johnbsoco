@@ -1,7 +1,4 @@
 from django.db import models
-python manage.py startapp employees
-
-Update models.py in the employees app:
 from django.db import models
 
 class StaffBase(models.Model):
